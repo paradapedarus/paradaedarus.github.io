@@ -5438,7 +5438,7 @@ body._scroll-lock{
     font-size: 13vw;
   }
 	.slider-content h2{
-		font-size: 32px;
+		font-size: 32px !important; 
 	}
 }
 
