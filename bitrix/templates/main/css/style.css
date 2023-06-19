@@ -5437,6 +5437,9 @@ body._scroll-lock{
   .slider-img.slider-img2 {
     font-size: 13vw;
   }
+	.slider-content{
+		font-size 13px;
+	}
 }
 
 
