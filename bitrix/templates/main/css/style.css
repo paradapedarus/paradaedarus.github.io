@@ -5440,6 +5440,9 @@ body._scroll-lock{
 	.slider-content h2{
 		font-size: 32px !important; 
 	}
+	.breadcrumb-content{
+	font-size: 13px !important; 
+	}
 }
 
 
